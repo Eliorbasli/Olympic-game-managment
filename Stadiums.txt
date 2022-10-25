@@ -1,0 +1,13 @@
+4
+Teddy
+Israel
+34000
+CampNou
+Barcelona
+99354
+Boca
+Argentina
+54000
+Jalisco
+Mexico
+55110
